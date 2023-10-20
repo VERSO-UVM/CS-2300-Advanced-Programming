@@ -3,29 +3,49 @@
 This is a Repository for UVM CS 120 Advanced Programming class. The goal of this class is to explore pull request and issues in a group on a single repository.  
 
 ## Steps 
-1. **Create Project** ~3 minutes
-  - Split into teams and one member create repo use the git template (email your repo url) ~5 minutes
-2. **Add comments** ~10 minutes
-  - Select two programming files and add comments through Github browser 
-  - Submit a Pull Request
-  - Team Repo Owner accepts Pull Request
-3. **Create Bugs** ~5 minutes
-  - Add everyone as contributors to repo
-  - Select two or more new programming files that has comments and create 2-4 small bugs
+1. **Create Project** ~5 minutes
+  - Split into teams 
+  - One team member creates a Team Repo use the GitHub template 
+  - Share the new repo url to the team
+2. **Add comments** ~5 minutes
+  - Select two programming files and add comments on what that code is doing through Github browser 
+  - Submit a pull request for the changes ([pull request documentation)[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+  - Team Repo Owner then accepts all the pull requests 
+3. **Create Bugs** ~10 minutes
+  - Team Repo Owner adds everyone in the team as Contributors ([adding people to a repo documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+  - Select two or more programming files you did not add comments to and create 2-4 bugs
   - Add a comment at the top with “bugs introduced: + your initials”
 4. **Submit Bug Reports**   ~10 minutes
-  - Select two files which you have not touched yet and that are marked with bugs
-  - Identify all bugs and submit bug reports through Github following the format in the Readme
+  - Select two files which you have not yet interacted with that have bugs introduced
+  - Identify all bugs and submit a new Issue through Github following the format below with a title that has the name of the file
 5. **Fix Bugs**   ~20 minutes
-  - Select two files which you have not touched yet and that have active Bug Reports
+  - Select two files which you have not yet interacted with and that have Issues
   - Assign bugs to yourself
   - Determine how to fix Bugs
-  - Push fixes to main with comments
+  - Push fixes with a comment on how you fixed it
 6. **QA and Close Bug Reports**  ~10 minutes
+  - Go to the Issues you wrote
   - Verify fixes are correct
   - Close bugs with comments
 
-# Issue/Bug Report
+## Program Descriptions
+**Datetime_convert**
+Take a date string and convert it to the format MM/DD/YYYY HH:MM:SS
+
+**Even_odd_site**
+Create an html page with two columns where one column is all the odd numbers from 1-50 and the other column is the even numbers from 1-50 and return the html
+
+**Remove_duplicates**
+Removed all duplicate numbers in an array and return the original array, the unique numbers in the array and the removed numbers
+
+**Rgb_to_hex**
+Take the color values in RGB (0-255 for red, green, blue) and convert to a hexadecimal format (#and six hexadecimals)
+
+**Sum_even_fibonacci**
+Sum all the even fibonacci numbers that are below 4,000,000
+
+
+## Issue/Bug Report
 **Description**
 A clear and concise description of what the issue/bug is.
 
