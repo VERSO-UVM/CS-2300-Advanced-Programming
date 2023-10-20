@@ -12,12 +12,13 @@ This is a Repository for UVM CS 120 Advanced Programming class. The goal of this
   - Submit a pull request for the changes ([pull request documentation)[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
   - Team Repo Owner then accepts all the pull requests 
 3. **Create Bugs** ~10 minutes
-  - Team Repo Owner adds everyone in the team as Contributors ([adding people to a repo documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-  - Select two or more programming files you did not add comments to and create 2-4 bugs
+  - Team Repo Owner adds everyone in the team as Contributors ([adding people to a repo documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository))
+  - Select two or more programming files you did not add comments to and create 2-4 bugs that are functional issues
   - Add a comment at the top with “bugs introduced: + your initials”
 4. **Submit Bug Reports**   ~10 minutes
   - Select two files which you have not yet interacted with that have bugs introduced
-  - Identify all bugs and submit a new Issue through Github following the format below with a title that has the name of the file
+  - Identify all bugs
+  - Submit a new Issue for each bug through Github following the format below with a title that has the name of the file ([creating issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue))
 5. **Fix Bugs**   ~20 minutes
   - Select two files which you have not yet interacted with and that have Issues
   - Assign bugs to yourself
