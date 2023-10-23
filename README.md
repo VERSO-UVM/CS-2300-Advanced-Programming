@@ -1,4 +1,4 @@
-# CS-120-Advanced-Programming
+# CS 2300 Advanced Programming
 
 This is a Repository for UVM CS 120 Advanced Programming class. The goal of this class is to explore pull request and issues in a group on a single repository.  
 
