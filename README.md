@@ -1,6 +1,6 @@
 # CS 2300 Advanced Programming
 
-This is a Repository for UVM CS 120 Advanced Programming class. The goal of this class is to explore pull request and issues in a group on a single repository.  
+This is a Repository for UVM CS 2300 Advanced Programming class. The goal of this class is to explore pull request and issues in a group on a single repository.  
 
 ## Steps 
 1. **Create Project** ~5 minutes
@@ -9,7 +9,7 @@ This is a Repository for UVM CS 120 Advanced Programming class. The goal of this
   - Share the new repo url to the team
 2. **Add comments** ~5 minutes
   - Select two programming files and add comments on what that code is doing through Github browser 
-  - Submit a pull request for the changes ([pull request documentation)[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+  - Submit a pull request for the changes ([pull request documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
   - Team Repo Owner then accepts all the pull requests 
 3. **Create Bugs** ~10 minutes
   - Team Repo Owner adds everyone in the team as Contributors ([adding people to a repo documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository))
