@@ -24,9 +24,6 @@ This is a Repository for UVM CS 2300 Advanced Programming class. The goal of thi
   - Assign bugs to yourself
   - Determine how to fix Bugs
   - Push fixes with a comment on how you fixed it
-6. **QA and Close Bug Reports**  ~10 minutes
-  - Go to the Issues you wrote
-  - Verify fixes are correct
   - Close bugs with comments
 
 ## Program Descriptions
