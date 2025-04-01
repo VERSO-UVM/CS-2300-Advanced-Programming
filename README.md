@@ -5,22 +5,22 @@ This is a Repository for UVM CS 2300 Advanced Programming class. The goal of thi
 ## Steps 
 1. **Create Project** ~5 minutes
   - Split into teams 
-  - One team member creates a Team Repo use the GitHub template 
-  - Share the new repo url to the team
+  - One team member creates a public Team Repo use the GitHub template (name it whatever you would like)
+  - Share the new repo url to the team, but do not add them to the project yet
 2. **Add comments** ~5 minutes
-  - Select two programming files and add comments on what that code is doing through Github browser 
+  - Select a programming files and add comments (including your initials) to the code through Github browser editor
   - Submit a pull request for the changes ([pull request documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
-  - Team Repo Owner then accepts all the pull requests 
+  - Team Repo Owner accepts all the pull requests 
 3. **Create Bugs** ~10 minutes
   - Team Repo Owner adds everyone in the team as Contributors ([adding people to a repo documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository))
-  - Select two or more programming files you did not add comments to and create 2-4 bugs that are functional issues
+  - Select a programming files you did not add comments to and create 2-4 bugs that are functional problems, not just typos
   - Add a comment at the top with “bugs introduced: + your initials”
 4. **Submit Bug Reports**   ~15 minutes
-  - Select two files which you have not yet interacted with that have bugs introduced
+  - Select files which you have not yet interacted with that have bugs
   - Identify all bugs
   - Submit a new Issue for each bug through Github following the format below with a title that has the name of the file ([creating issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue))
 5. **Fix Bugs**   ~15 minutes
-  - Select two files which you have not yet interacted with and that have Issues
+  - Select files which you have not yet interacted with and that have Issues
   - Assign bugs to yourself
   - Determine how to fix Bugs
   - Push fixes with a comment on how you fixed it
